@@ -24,7 +24,7 @@ const Movie = () => {
         };
         getData();
         window.scrollTo(0,0);
-      }, []);
+      }, [id]);
       
       
     return (

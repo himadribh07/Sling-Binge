@@ -1,7 +1,8 @@
 ### Sling Binge(IMDb Clone)
 This is a web application that emulates some of the features of IMDb (Internet Movie Database), a popular online database of movies, TV shows, and other entertainment content.
 
-![image](https://user-images.githubusercontent.com/62461681/233861308-64dcbf6b-93fb-4fcf-9b9c-7885ad068dde.png)
+![image](https://user-images.githubusercontent.com/62461681/233905270-c00b9b33-a9a8-4c26-b3fc-c4c713684aeb.png)
+
 
 ## Features
 Browse movies and TV shows by genre, year, and popularity.
